@@ -1,0 +1,92 @@
+{
+  "Button": {
+    "shimUrl": "https://framer.com/m/Button-Npdsw4.js",
+    "moduleUrl": "https://framerusercontent.com/modules/ZlrXQHTbef3X9MoI9VrQ/f6WdTctZVWGVC6qxjqKO/Jh9jZPCX6.js",
+    "file": "framer/modules/Jh9jZPCX6.js"
+  },
+  "Tag": {
+    "shimUrl": "https://framer.com/m/Tag-pvIYVv.js",
+    "moduleUrl": "https://framerusercontent.com/modules/TVbLGbfoNZ7zPkZRHwFV/GnoEGdwVbrRrirdep4wo/PR2FImO_h.js",
+    "file": "framer/modules/PR2FImO_h.js"
+  },
+  "PromptCard": {
+    "shimUrl": "https://framer.com/m/Prompt-Card-7sznQT.js",
+    "moduleUrl": "https://framerusercontent.com/modules/dl0HT1GgLmuwgkfTPgkP/RMelKfCW9ia8XnrouXBn/WiYRi7zrg.js",
+    "file": "framer/modules/WiYRi7zrg.js"
+  },
+  "UICardLoading": {
+    "shimUrl": "https://framer.com/m/UI-card-loading-JzQwFn.js",
+    "moduleUrl": "https://framerusercontent.com/modules/RRWd2u4NiEFGrY6u8YPI/xQ9A5dOW7u68OKw0Mi8Z/XQfVZNDnD.js",
+    "file": "framer/modules/XQfVZNDnD.js"
+  },
+  "FeatureIndicator": {
+    "shimUrl": "https://framer.com/m/Feature-indicator-ZzK41q.js",
+    "moduleUrl": "https://framerusercontent.com/modules/Q4w0gPmdW1mKUzqhD1JY/DFu6bu6rSrys44hTPlLg/C11k882cT.js",
+    "file": "framer/modules/C11k882cT.js"
+  },
+  "UserRolesCard": {
+    "shimUrl": "https://framer.com/m/User-roles-card-RocyVc.js",
+    "moduleUrl": "https://framerusercontent.com/modules/gg44dXHrruCdRgrXk3Az/bSDiwvOe2iqvAM7S4W6v/ezA3Bb8pm.js",
+    "file": "framer/modules/ezA3Bb8pm.js"
+  },
+  "MultimodalCard": {
+    "shimUrl": "https://framer.com/m/Multimodal-card-LduPDZ.js",
+    "moduleUrl": "https://framerusercontent.com/modules/hLBZKnNtBCMpJmQpQhaH/p3StnLfPm9JeNEMacSXE/qCXDZGj4q.js",
+    "file": "framer/modules/qCXDZGj4q.js"
+  },
+  "CapabilityCard": {
+    "shimUrl": "https://framer.com/m/Capability-card-ncL4n9.js",
+    "moduleUrl": "https://framerusercontent.com/modules/yagw8lG1XcXDtMi9S4Kr/NsDCb9pqjB704RbM1iyb/qp1dFT5rB.js",
+    "file": "framer/modules/qp1dFT5rB.js"
+  },
+  "IndustryCard": {
+    "shimUrl": "https://framer.com/m/Industry-card-nZw9d6.js",
+    "moduleUrl": "https://framerusercontent.com/modules/xDE9zrOEgdbDw8s0OGON/sJ0EjbJgiLT0wvzwyOKL/slkat30Sb.js",
+    "file": "framer/modules/slkat30Sb.js"
+  },
+  "MetricsCard": {
+    "shimUrl": "https://framer.com/m/Metrics-card-pFaGZg.js",
+    "moduleUrl": "https://framerusercontent.com/modules/0tIQGyO2aEky1S4gX8tB/kauFMNNs2N1I7t5t1vn4/PxRVBBWIS.js",
+    "file": "framer/modules/PxRVBBWIS.js"
+  },
+  "PricingPlanCard": {
+    "shimUrl": "https://framer.com/m/Pricing-plan-card-ZuU0xO.js",
+    "moduleUrl": "https://framerusercontent.com/modules/Fh1rTpWYLH9l0dwySMLB/YGkRGOWfdBz8O0kru6DF/trGKj0u8_.js",
+    "file": "framer/modules/trGKj0u8_.js"
+  },
+  "PricingList": {
+    "shimUrl": "https://framer.com/m/Pricing-list-peJhuu.js",
+    "moduleUrl": "https://framerusercontent.com/modules/4dfPFPiRhNgnWf9e8EN5/4TEuvTiYUyosLQeyjJ8M/EuWUBM8Ks.js",
+    "file": "framer/modules/EuWUBM8Ks.js"
+  },
+  "ToggleButton": {
+    "shimUrl": "https://framer.com/m/Toggle-button-apJg9q.js",
+    "moduleUrl": "https://framerusercontent.com/modules/rnqfA6HjrPxHgSBSehaH/zCWysxnmp7OmKRSVo90k/B5ge51dPW.js",
+    "file": "framer/modules/B5ge51dPW.js"
+  },
+  "PricingToggleCards": {
+    "shimUrl": "https://framer.com/m/Pricing-toggle-cards-XOd8Zn.js",
+    "moduleUrl": "https://framerusercontent.com/modules/GRkXWQp3vgEbymKBFOaj/u3L8LTVfpo463DaLcQEX/NOzSvW5Bh.js",
+    "file": "framer/modules/NOzSvW5Bh.js"
+  },
+  "Footer": {
+    "shimUrl": "https://framer.com/m/Footer-VRVZFT.js",
+    "moduleUrl": "https://framerusercontent.com/modules/e4Ib2s38d9kVGGkF94Rt/PKfrY7xeFpIuzA3Cvt3E/HSAs7QY3s.js",
+    "file": "framer/modules/HSAs7QY3s.js"
+  },
+  "NavigationBar": {
+    "shimUrl": "https://framer.com/m/Navigation-bar-z4KF1q.js",
+    "moduleUrl": "https://framerusercontent.com/modules/9K4lCf1BUvsdF3CaEPJ8/4A8gfabeuPK1UcrH7DC9/UXHe4J1PZ.js",
+    "file": "framer/modules/UXHe4J1PZ.js"
+  },
+  "FAQCard": {
+    "shimUrl": "https://framer.com/m/FAQ-card-BIv2GU.js",
+    "moduleUrl": "https://framerusercontent.com/modules/nUZEke0Uhh8DymsatXTd/yl5yqBxMqq3TedEEGqTI/eWWSXuZM8.js",
+    "file": "framer/modules/eWWSXuZM8.js"
+  },
+  "FAQsCardContainer": {
+    "shimUrl": "https://framer.com/m/FAQs-card-container-D4BegS.js",
+    "moduleUrl": "https://framerusercontent.com/modules/rLVz2y1GmXr1oMtAnBdH/xhrubZaE1BKi6G993tfA/dGKghXMEe.js",
+    "file": "framer/modules/dGKghXMEe.js"
+  }
+}
