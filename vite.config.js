@@ -42,7 +42,7 @@ export default defineConfig({
   ],
   resolve: {
     alias: {
-      'framer': path.resolve(import.meta.dirname, 'node_modules/framer/index.js'),
+      'framer': path.resolve(import.meta.dirname, 'src/framer-shim.js'),
     }
   },
   server: {
